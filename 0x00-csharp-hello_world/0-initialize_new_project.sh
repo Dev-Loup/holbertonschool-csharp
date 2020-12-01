@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Ignite the 0-new_project 
+# Ignite
 dotnet new console -o 0-new_project

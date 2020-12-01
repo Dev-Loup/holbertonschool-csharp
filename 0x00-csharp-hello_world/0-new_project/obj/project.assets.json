@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diego/Documents/holberton/holbertonschool-csharp/0-new_project/0-new_project.csproj",
+      "projectUniqueName": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj",
       "projectName": "0-new_project",
-      "projectPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0-new_project/0-new_project.csproj",
+      "projectPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj",
       "packagesPath": "/Users/diego/.nuget/packages/",
-      "outputPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0-new_project/obj/",
+      "outputPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
