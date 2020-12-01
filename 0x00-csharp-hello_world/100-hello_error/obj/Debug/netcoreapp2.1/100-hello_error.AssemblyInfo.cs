@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("100-helloerror")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("100-hello_error")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("100-helloerror")]
-[assembly: System.Reflection.AssemblyTitleAttribute("100-helloerror")]
+[assembly: System.Reflection.AssemblyProductAttribute("100-hello_error")]
+[assembly: System.Reflection.AssemblyTitleAttribute("100-hello_error")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

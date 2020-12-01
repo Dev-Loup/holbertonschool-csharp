@@ -11,5 +11,5 @@ class Program
             Console.Write("{0}", str);
         }
         Console.Write("\n{0}\n", str.Substring(0,9));
-        }
+    }
 }

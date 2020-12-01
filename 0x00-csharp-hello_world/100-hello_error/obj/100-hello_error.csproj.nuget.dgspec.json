@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-helloerror/100-helloerror.csproj": {}
+    "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj": {}
   },
   "projects": {
-    "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-helloerror/100-helloerror.csproj": {
+    "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-helloerror/100-helloerror.csproj",
-        "projectName": "100-helloerror",
-        "projectPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-helloerror/100-helloerror.csproj",
+        "projectUniqueName": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
+        "projectName": "100-hello_error",
+        "projectPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/100-hello_error.csproj",
         "packagesPath": "/Users/diego/.nuget/packages/",
-        "outputPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-helloerror/obj/",
+        "outputPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
