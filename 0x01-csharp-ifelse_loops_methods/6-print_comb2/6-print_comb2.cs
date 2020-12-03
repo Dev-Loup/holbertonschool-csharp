@@ -6,17 +6,17 @@ namespace _6_print_comb2
     {
         static void Main(string[] args)
         {
-            for (int tens = 0; tens < 10; tens++)
+            for (int units = 0; units < 10; units++)
             {
-                for (int units = 0; units < 10; units++)
+                for (int tens = 0; tens < 10; tens++)
                 {
-                    if (tens == 8 && units == 9)
+                    if (units == 8 && tens == 9)
                     {
-                        Console.WriteLine("{0}{1}",units, tens);
+                        Console.WriteLine("{0}{1}",tens, units);
                     }
-                    else if (units < tens)
+                    else if (tens < units)
                     {
-                        Console.Write("{0}{1}, ",units, tens);
+                        Console.Write("{0}{1}, ",tens, units);
                     }
                 }
             }
