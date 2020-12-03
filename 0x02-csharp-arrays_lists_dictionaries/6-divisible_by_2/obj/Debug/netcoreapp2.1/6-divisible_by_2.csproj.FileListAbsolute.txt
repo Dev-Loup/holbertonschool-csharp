@@ -1,0 +1,11 @@
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.csprojAssemblyReference.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.AssemblyInfoInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.AssemblyInfo.cs
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.deps.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.runtimeconfig.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.runtimeconfig.dev.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.pdb
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.pdb
