@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print-array_reverse/3-print-array_reverse.csproj",
-      "projectName": "3-print-array_reverse",
-      "projectPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print-array_reverse/3-print-array_reverse.csproj",
+      "projectUniqueName": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/3-print_array_reverse.csproj",
+      "projectName": "3-print_array_reverse",
+      "projectPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/3-print_array_reverse.csproj",
       "packagesPath": "/Users/diego/.nuget/packages/",
-      "outputPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print-array_reverse/obj/",
+      "outputPath": "/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
