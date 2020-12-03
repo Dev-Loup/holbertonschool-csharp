@@ -8,6 +8,7 @@ class Array
         {
             return array[index];
         }
+        Console.WriteLine("Index out of range");
         return -1;
     }
 }
