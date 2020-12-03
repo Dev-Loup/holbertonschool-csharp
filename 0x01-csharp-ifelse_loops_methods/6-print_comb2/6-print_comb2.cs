@@ -12,11 +12,11 @@ namespace _6_print_comb2
                 {
                     if (tens == 8 && units == 9)
                     {
-                        Console.WriteLine("{0}{1}",tens, units);
+                        Console.WriteLine("{0}{1}",units, tens);
                     }
                     else if (units < tens)
                     {
-                        Console.Write("{0}{1}, ",tens, units);
+                        Console.Write("{0}{1}, ",units, tens);
                     }
                 }
             }
