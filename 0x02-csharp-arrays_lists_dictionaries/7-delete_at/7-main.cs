@@ -12,7 +12,7 @@ class Program
 
         Console.WriteLine("----------");
 
-        List.DeleteAt(myList, -1);
+        List.DeleteAt(myList, 0);
 
         foreach (int i in myList)
             Console.WriteLine(i);
