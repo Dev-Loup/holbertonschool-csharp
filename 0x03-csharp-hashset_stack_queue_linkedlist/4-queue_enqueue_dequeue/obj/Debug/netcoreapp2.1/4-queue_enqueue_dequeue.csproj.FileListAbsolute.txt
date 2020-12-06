@@ -1,0 +1,11 @@
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.deps.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.dev.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csprojAssemblyReference.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfo.cs
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
