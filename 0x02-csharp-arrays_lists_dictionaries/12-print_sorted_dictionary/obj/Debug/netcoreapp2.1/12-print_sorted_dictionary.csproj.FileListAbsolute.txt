@@ -1,0 +1,11 @@
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.deps.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.runtimeconfig.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.runtimeconfig.dev.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.pdb
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.csprojAssemblyReference.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.AssemblyInfoInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.AssemblyInfo.cs
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.pdb
