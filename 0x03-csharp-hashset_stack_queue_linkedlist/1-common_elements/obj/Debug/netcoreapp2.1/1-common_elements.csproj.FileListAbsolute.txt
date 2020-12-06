@@ -1,0 +1,11 @@
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.deps.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.runtimeconfig.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.runtimeconfig.dev.json
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.pdb
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.csprojAssemblyReference.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.AssemblyInfoInputs.cache
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.AssemblyInfo.cs
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.dll
+/Users/diego/Documents/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.pdb
