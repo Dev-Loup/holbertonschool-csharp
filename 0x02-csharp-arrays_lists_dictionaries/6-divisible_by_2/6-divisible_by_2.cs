@@ -5,11 +5,14 @@ class List
 {
     public static List<bool> DivisibleBy2(List<int> myList)
     {
-        List<bool> report = new List<bool>();
+        List<bool> booleans = new List<bool>();
         for (int i = 0; i < myList.Count; i++)
         {
-            report.Add(myList[i] % 2 == 0);
+            if (myList[i] % 2 == 0)
+                booleans.Add(true);
+            else
+                booleans.Add(false);
         }
-        return report;
+        return booleans;
     }
 }

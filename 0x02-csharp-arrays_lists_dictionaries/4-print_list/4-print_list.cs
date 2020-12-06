@@ -10,15 +10,15 @@ class List
             Console.WriteLine("Size cannot be negative");
             return null;
         }
-        List<int> num_list = new List<int>();
-		for (int iter = 0; iter < size; iter++)
+        List<int> myList = new List<int>();
+		for (int i = 0; i < size; i++)
 		{
-			num_list.Add(iter);
-			Console.Write(iter);
-			if (iter < size - 1)
+			myList.Add(i);
+			Console.Write(i);
+			if (i < size - 1)
 				Console.Write(' ');
 		}
 		Console.WriteLine();
-		return num_list;
+		return myList;
     }
 }
